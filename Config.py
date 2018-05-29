@@ -1,3 +1,3 @@
-TOKEN = "API TOKEN"
-VERSION = "0.0.0_indev"
-CREATORS = ["Gayed Life","sailveron")
+import turtle
+tal = turtle.Turtle()
+liel = turtle.Turtle()
