@@ -18,7 +18,19 @@ def Liel():
     l.forward(100)
   def down():
     l.seth(270)
-    t.forward(100)
+    l.forward(100)
   
 def Tal():
+   def right(): 
+    t.seth(0)
+    t.forward(100)
+  def left():
+    t.seth(180)
+    t.forward(100)
+  def up():
+    t.seth(90)
+    t.forward(100)
+  def down():
+    t.seth(270)
+    t.forward(100)
 
